@@ -1,15 +1,15 @@
 import styled from 'styled-components'
 
-const Projects = (props) => {
+const Resume = (props) => {
     return (
         <StyledContainer>
-            <h1>projects</h1>
+            <h1>Resume</h1>
 
         </StyledContainer>
     );
 }
 
-export default Projects;
+export default Resume;
 
 const StyledContainer = styled.div`
 color: #fbfcfd;
